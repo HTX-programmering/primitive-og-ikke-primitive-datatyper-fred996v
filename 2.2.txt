@@ -1,0 +1,8 @@
+int har en max værdi på 2^31 og en min værdi på -2^31
+float har en max værdi på 3.4*10^38 og en min værdi på -3.4*10^38
+char
+boolean
+byte
+short
+long
+double
