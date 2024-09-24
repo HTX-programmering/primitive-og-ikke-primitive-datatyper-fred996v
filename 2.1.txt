@@ -1,0 +1,8 @@
+int består af 4 bytes
+float består af 4 bytes
+char består af 2 bytes
+boolean består af 1 byte
+byte består af 1 byte
+short består af 2 bytes
+long består af 8 bytes
+double består af 8 bytes
